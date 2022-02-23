@@ -2,3 +2,5 @@ github.com/davidwah/go-say-hallo v1.0.0 h1:mkabjxJUnPdnQoSO0PW6vpQhMelAaa1bic4bL
 github.com/davidwah/go-say-hallo v1.0.0/go.mod h1:qDI22buQhi5oASCONUuYF8WUys3JSq6NZ1vmhdttkeY=
 github.com/davidwah/go-say-hallo v1.5.0 h1:R3S+H3CJdzBpq165rDa5jo7Si+hZunzfd7LfQo+NvR8=
 github.com/davidwah/go-say-hallo v1.5.0/go.mod h1:qDI22buQhi5oASCONUuYF8WUys3JSq6NZ1vmhdttkeY=
+github.com/davidwah/go-say-hallo/v2 v2.0.0 h1:7FfeHtZ+ebLCDk2YAGQO3LvBtOsYJ0Fxh5zfQEGaiGk=
+github.com/davidwah/go-say-hallo/v2 v2.0.0/go.mod h1:EGBPEpSFCe78uGBEUq2ZV+ubtU0Oq0wH444ar2tiZ74=
